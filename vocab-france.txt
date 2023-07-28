@@ -4,8 +4,8 @@ comme = as
   comme
   comme
 pour = far
-  je
-je = i
   pour
+je = i
+  je
 son = his
 que = that
