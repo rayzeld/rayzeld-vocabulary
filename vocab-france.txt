@@ -3,7 +3,7 @@ Vocab France
 comme = as
   comme
   comme
-
+pour = far
 je = i
 son = his
 que = that
